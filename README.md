@@ -52,7 +52,8 @@ Built with Java, Spring Boot, PostgreSQL, Stockfish, and vanilla JavaScript.
 - Learning through practical projects
 - Building useful software with a focus on privacy and independence
 
-## Featured projects
+## Featured projects — and my only public projects rn
+
 
 - [Lesspecad](https://github.com/flisvibing/lesspecad)
 - [Chesst](https://github.com/flisvibing/chesst)
