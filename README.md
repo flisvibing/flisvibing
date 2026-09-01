@@ -1,4 +1,4 @@
-# Hey, I'm Flashlight
+# Hi everyone, I'm Flashlight (🔦)
 
 Just a solo vibe coder building things my own way.
 
