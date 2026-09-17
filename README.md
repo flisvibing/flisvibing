@@ -32,6 +32,19 @@ explorer, JWT authentication, and Lichess and Chess.com integrations.
 
 Built with Java, Spring Boot, PostgreSQL, Stockfish, and vanilla JavaScript.
 
+### [Lanu](https://github.com/flisvibing/lanu)
+
+A minimalist, self-hosted, high-performance embedded database engine written in Rust.
+Lanu focuses on raw binary storage, unlimited data without product-imposed caps,
+zero-knowledge record-level encryption with AES-256-GCM, and a small dependency footprint.
+
+It stores tables in 500 MB `.ln` chunks with paired `.idx` offset indexes for fast row lookups,
+and runs as a standalone server accessed through a gRPC API secured with mutual TLS (mTLS).
+The ecosystem also includes `lanu-dbx`, a read-only interactive CLI for inspecting `.lnf`
+database archives.
+
+Lanu is currently in active architecture and development and is not yet ready for production use.
+
 ## Technologies
 
 - Kotlin
@@ -39,16 +52,18 @@ Built with Java, Spring Boot, PostgreSQL, Stockfish, and vanilla JavaScript.
 - Jetpack Compose
 - Java
 - Spring Boot
+- Rust
 - Python
 - PyTorch
 - Flask
 - PostgreSQL
 - JavaScript
 - Stockfish
+- gRPC
 
 ## Current focus
 
-- Continuing development of Lesspecad and Chesst
+- Continuing development of Lesspecad, Chesst, and Lanu
 - Learning through practical projects
 - Building useful software with a focus on privacy and independence
 
@@ -57,6 +72,7 @@ Built with Java, Spring Boot, PostgreSQL, Stockfish, and vanilla JavaScript.
 
 - [Lesspecad](https://github.com/flisvibing/lesspecad)
 - [Chesst](https://github.com/flisvibing/chesst)
+- [Lanu](https://github.com/flisvibing/lanu)
 
 ---
 
