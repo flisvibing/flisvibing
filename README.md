@@ -22,7 +22,7 @@ Just a solo vibe coder building things my own way.
 ## About me
 
 I'm an independent developer interested in Android development,
-privacy-focused software, chess, and local AI experiments.
+privacy-focused software, chess, and much more. 
 
 I enjoy turning ideas into working projects, learning by building,
 and exploring different technologies through practical experiments.
