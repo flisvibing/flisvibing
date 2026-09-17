@@ -16,7 +16,7 @@ Just a solo vibe coder building things my own way.
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MahdiKordian/MahdiKordian/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/flisvibing/flisvibing/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </div>
 
 ## About me
