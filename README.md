@@ -2,6 +2,19 @@
 
 Just a solo vibe coder building things my own way.
 
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=flisvibing&theme=tokyonight" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=flisvibing&theme=tokyonight" height="180"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=flisvibing&theme=tokyonight&hide_border=true&background=0A192F&stroke=00B4D8&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8" height="180"/>
+
+</div>
+
 ## About me
 
 I'm an independent developer interested in Android development,
