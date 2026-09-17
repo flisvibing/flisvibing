@@ -2,7 +2,7 @@
 
 Just a solo vibe coder building things my own way.
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
